@@ -73,7 +73,6 @@ A modern web browser (Chrome, Firefox, Edge, Safari) and a code editor.
 
 ## Usage
 
-* Use the **search bar** in the hero to select sale type and property category, then enter an area to simulate property querying.
 * Scroll through **featured listings** for property details.
 * Switch between **Buying**, **Renting**, and **Selling** tabs to explore available tools and guides.
 * Navigate to **Contact Us** (or interact with the sign‑up pop‑up) to see form validation in action.
