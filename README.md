@@ -63,7 +63,7 @@ A modern web browser (Chrome, Firefox, Edge, Safari) and a code editor.
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/<your-username>/nc-properties.git
+   git clone https://github.com/<your-username>/NC-Properties-front-end.git
    cd nc-properties
    ```
 
@@ -85,4 +85,3 @@ A modern web browser (Chrome, Firefox, Edge, Safari) and a code editor.
 * **Add Listings**: Duplicate a property card in `index.html` and update image paths, text, and icons.
 * **Styles**: Modify or extend CSS in the `css/` directory.
 * **Scripts**: Enhance interactivity in `js/` (e.g., integrate API calls).
-
